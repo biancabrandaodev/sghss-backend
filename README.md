@@ -172,7 +172,7 @@ Casos de teste executados:
 * Cadastro de consultas
 * Consulta de consultas
 
-Todos os testes foram executados com sucesso utilizando respostas HTTP 200 OK.
+Todos os testes foram executados com sucesso utilizando respostas HTTP 201 OK.
 
 ---
 
